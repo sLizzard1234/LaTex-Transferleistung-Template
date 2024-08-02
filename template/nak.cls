@@ -11,3 +11,4 @@
 \RequirePackage[ngerman]{babel}
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{float}
+\RequirePackage{lipsum}

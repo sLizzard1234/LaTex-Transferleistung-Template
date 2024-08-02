@@ -1,0 +1,6 @@
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Darüber hinaus sind\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QZu den Benefits gehören unter anderem: Weiterbildung Mitarbeiter Events Flexible Arbeitszeiten\\E$"}
+{"rule":"XJAEHRIG","sentence":"^\\QGruppe \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Jährige\\E$"}
+{"rule":"GERMAN_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDie zweite Gruppe umfasst etwa 70 % der Befragten und ist in Abbildung 1 dargestellt.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QDie grafische Darstellung verdeutlicht, dass eine signifikante Mehrheit der Befragten Hobbys als essenziellen Faktor für ihr persönliches Wohlbefinden und ihre Zufriedenheit im Berufs- und Privatleben erachtet.\\E$"}
+{"rule":"GERMAN_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDie Ausübung von Hobbys ermöglicht eine Reduktion von Stress und die Generierung von neuer Energie, was letztlich zu einer optimierten Balance zwischen Arbeit und Freizeit führt.\\E$"}

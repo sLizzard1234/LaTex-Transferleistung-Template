@@ -1,0 +1,404 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{akquinetFirmengeschichte}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://akquinet.com/unternehmen.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet Unsere Firmengeschichte}
+    \endentry
+    \entry{akquinetGesundheitswesen}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://akquinet.com/gesundheitswesen.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet Gesundheitswesen}
+    \endentry
+    \entry{akquinetoffentlich}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://akquinet.com/oeffentliche-verwaltung.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet öffentlicher Sektor}
+    \endentry
+    \entry{akquinethafenlogistik}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://akquinet.com/hafenlogistik.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet Hafenlogistik}
+    \endentry
+    \entry{akquinetindustrie}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://akquinet.com/industrie-40.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet Industrie und Dienstleistungen}
+    \endentry
+    \entry{akquinetueberuns}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://karriere.akquinet.de/ueber-uns.html}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Akquinet Über uns}
+    \endentry
+    \entry{werner2021strategic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c3c0be71dd57c6820523e914962ceeaf}{%
+           family={Werner},
+           familyi={W\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=005bad6ac7c9d536bd41be7e19e9ccc2}{%
+           family={Balkin},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WorldatWork}%
+      }
+      \strng{namehash}{17289809fed994a9d1f25ad702dc70ae}
+      \strng{fullhash}{17289809fed994a9d1f25ad702dc70ae}
+      \strng{bibnamehash}{17289809fed994a9d1f25ad702dc70ae}
+      \strng{authorbibnamehash}{17289809fed994a9d1f25ad702dc70ae}
+      \strng{authornamehash}{17289809fed994a9d1f25ad702dc70ae}
+      \strng{authorfullhash}{17289809fed994a9d1f25ad702dc70ae}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Total Rewards}
+      \field{number}{1}
+      \field{title}{Strategic benefits: How employee benefits can create a sustainable competitive edge}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{pages}{8\bibrangedash 22}
+      \range{pages}{15}
+    \endentry
+    \entry{hong1995impact}{article}{}
+      \name{author}{6}{}{%
+        {{hash=8564534a708026fe981e037813f30198}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jon-Chao},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=2b8188ac2293efc3ebce3783601848ab}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Sung-De},
+           giveni={S\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=388582e65af1af0167a1674bea0c3cdf}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Li-Jung},
+           giveni={L\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=61139505d0316fae1f2f495baceb76f6}{%
+           family={Chiou},
+           familyi={C\bibinitperiod},
+           given={En-Fu},
+           giveni={E\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=6bec805da4e57e293b9cdc7d9204cfa7}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Fan-Yin},
+           giveni={F\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=98a28312c96da1b0947ed3fdd0e19eaa}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={sui-Lan},
+           giveni={s\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MCB UP Ltd}%
+      }
+      \strng{namehash}{cbdd1ce7e54d911cd0639d9bbaa5d53f}
+      \strng{fullhash}{e868e3314126104bc3117afc4fe99b66}
+      \strng{bibnamehash}{e868e3314126104bc3117afc4fe99b66}
+      \strng{authorbibnamehash}{e868e3314126104bc3117afc4fe99b66}
+      \strng{authornamehash}{cbdd1ce7e54d911cd0639d9bbaa5d53f}
+      \strng{authorfullhash}{e868e3314126104bc3117afc4fe99b66}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Career Management}
+      \field{number}{6}
+      \field{title}{Impact of employee benefits on work motivation and productivity}
+      \field{volume}{7}
+      \field{year}{1995}
+      \field{pages}{10\bibrangedash 14}
+      \range{pages}{5}
+    \endentry
+    \entry{weiterbildungintro}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b2d03cf84187cf60a9d8dcbc5cbd146a}{%
+           family={Laura\bibnamedelima Mehner},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Sandra\bibnamedelima Rothenbusch},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=739e31b0b3c9cd5ef606c1b146371457}{%
+           family={Kauffeld},
+           familyi={K\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{fullhash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{bibnamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authorbibnamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authornamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authorfullhash}{14faf9b42b71a8385ec79981676887bb}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Work and Organizational Psychology}
+      \field{number}{0}
+      \field{title}{How to maximize the impact of workplace training: a mixed-method analysis of social support, training transfer and knowledge sharing}
+      \field{volume}{0}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+    \endentry
+    \entry{weiterbildungconc}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b2d03cf84187cf60a9d8dcbc5cbd146a}{%
+           family={Laura\bibnamedelima Mehner},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Sandra\bibnamedelima Rothenbusch},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=739e31b0b3c9cd5ef606c1b146371457}{%
+           family={Kauffeld},
+           familyi={K\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{fullhash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{bibnamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authorbibnamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authornamehash}{14faf9b42b71a8385ec79981676887bb}
+      \strng{authorfullhash}{14faf9b42b71a8385ec79981676887bb}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Work and Organizational Psychology}
+      \field{number}{0}
+      \field{title}{How to maximize the impact of workplace training: a mixed-method analysis of social support, training transfer and knowledge sharing}
+      \field{volume}{0}
+      \field{year}{2024}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/1359432X.2024.2319082
+      \endverb
+    \endentry
+    \entry{MAEvents}{article}{}
+      \name{author}{2}{}{%
+        {{hash=29060b6edc7bbc48a1f81bc1af2328df}{%
+           family={Iskandar},
+           familyi={I\bibinitperiod},
+           given={CB},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3a2f275e4767809a3d68ba3a43646da8}{%
+           family={Mani},
+           familyi={M\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c411b37d7831cf13b8737a933c977898}
+      \strng{fullhash}{c411b37d7831cf13b8737a933c977898}
+      \strng{bibnamehash}{c411b37d7831cf13b8737a933c977898}
+      \strng{authorbibnamehash}{c411b37d7831cf13b8737a933c977898}
+      \strng{authornamehash}{c411b37d7831cf13b8737a933c977898}
+      \strng{authorfullhash}{c411b37d7831cf13b8737a933c977898}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Engineering Research and Technology (IJERT)}
+      \field{title}{Implementation of Internal Communication to Develop Employee Loyalty}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.academia.edu/download/66210710/implementation_of_internal_communication_IJERTV10IS030266.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/download/66210710/implementation_of_internal_communication_IJERTV10IS030266.pdf
+      \endverb
+    \endentry
+    \entry{arbeitszeit}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4465882606232dc4ef32868a58f2047a}{%
+           family={Shifrin},
+           familyi={S\bibinitperiod},
+           given={Nicole\bibnamedelima V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=33eafad6380db50b8e939ec07d91c83d}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={Jesse\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{42b5937bd42c6241c9ab2c774928171b}
+      \strng{fullhash}{42b5937bd42c6241c9ab2c774928171b}
+      \strng{bibnamehash}{42b5937bd42c6241c9ab2c774928171b}
+      \strng{authorbibnamehash}{42b5937bd42c6241c9ab2c774928171b}
+      \strng{authornamehash}{42b5937bd42c6241c9ab2c774928171b}
+      \strng{authorfullhash}{42b5937bd42c6241c9ab2c774928171b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Work \& Stress}
+      \field{number}{1}
+      \field{title}{Flexible work arrangements and employee health: A meta-analytic review}
+      \field{volume}{36}
+      \field{year}{2022}
+      \field{pages}{60\bibrangedash 85}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1080/02678373.2021.1936287
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/02678373.2021.1936287
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/02678373.2021.1936287
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/02678373.2021.1936287
+      \endverb
+    \endentry
+    \entry{personalverkehr}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-umweltfreundlicher-personenverkehr}}
+      \field{note}{(zuletzt besucht am 30.07.2024)}
+      \field{title}{Umweltfreundlicher Personenverkehr}
+    \endentry
+    \entry{langesitzen}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=97cbf4665fcb653eb420b2392915b0ce}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Jordyn},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Western Oregon University}%
+      }
+      \strng{namehash}{97cbf4665fcb653eb420b2392915b0ce}
+      \strng{fullhash}{97cbf4665fcb653eb420b2392915b0ce}
+      \strng{bibnamehash}{97cbf4665fcb653eb420b2392915b0ce}
+      \strng{authorbibnamehash}{97cbf4665fcb653eb420b2392915b0ce}
+      \strng{authornamehash}{97cbf4665fcb653eb420b2392915b0ce}
+      \strng{authorfullhash}{97cbf4665fcb653eb420b2392915b0ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Health Risks Involved with Prolonged Sitting: Spreading Awareness to College Students}
+      \field{type}{Undergraduate Honors Thesis}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://core.ac.uk/download/pdf/234039437.pdf
+      \endverb
+      \verb{url}
+      \verb https://core.ac.uk/download/pdf/234039437.pdf
+      \endverb
+    \endentry
+    \entry{betriebssportfördertgesundheit}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=dbb7d320205eec9373eac0701ba8deee}{%
+           family={Eiriksdottir},
+           familyi={E\bibinitperiod},
+           given={Hrafnhildur},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Norwegian School of Sport Sciences}%
+      }
+      \strng{namehash}{dbb7d320205eec9373eac0701ba8deee}
+      \strng{fullhash}{dbb7d320205eec9373eac0701ba8deee}
+      \strng{bibnamehash}{dbb7d320205eec9373eac0701ba8deee}
+      \strng{authorbibnamehash}{dbb7d320205eec9373eac0701ba8deee}
+      \strng{authornamehash}{dbb7d320205eec9373eac0701ba8deee}
+      \strng{authorfullhash}{dbb7d320205eec9373eac0701ba8deee}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Worksite Physical Activity Interventions and their effect on employees' sickness absence: a literature review}
+      \field{type}{Master's Thesis}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://nih.brage.unit.no/nih-xmlui/bitstream/handle/11250/2399333/Eiriksdottir%20H%20v2016.pdf?sequence=1
+      \endverb
+      \verb{url}
+      \verb https://nih.brage.unit.no/nih-xmlui/bitstream/handle/11250/2399333/Eiriksdottir%20H%20v2016.pdf?sequence=1
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

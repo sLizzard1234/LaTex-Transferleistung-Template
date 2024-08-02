@@ -1,11 +1,13 @@
 \documentclass{template/nak}
-\addbibresource{literature.bib}
+\addbibresource{bib/literature.bib}
 
 \begin{document}
+\pagenumbering{Roman}
 \input{template/deckblatt.tex}
 \tableofcontents
 \newpage
 
+\pagenumbering{arabic}
 \section{Einleitung}
 \input{content/intro.tex}
 
@@ -16,5 +18,9 @@
 \input{content/conclusion.tex}
 
 \newpage
+\pagenumbering{Roman}
+\setcounter{page}{3}
 \printbibliography
+\listoffigures
+
 \end{document}
