@@ -13,3 +13,4 @@
 \RequirePackage{float}
 \RequirePackage{lipsum}
 \RequirePackage{pdfpages}
+\setlength{\parindent}{0pt}
