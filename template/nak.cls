@@ -12,3 +12,4 @@
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{float}
 \RequirePackage{lipsum}
+\RequirePackage{pdfpages}
